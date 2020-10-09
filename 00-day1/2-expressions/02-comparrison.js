@@ -24,3 +24,11 @@ console.log('3'  !== 3)
 
 //* less than or equal to
 2 <= 3
+
+//* and
+2 && 3
+
+//* or
+2 || 3
+
+
